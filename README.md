@@ -1,6 +1,6 @@
 # SAFE-AI License
 
-[![License: SAFE-AI](https://img.shields.io/badge/License-SAFE--AI-blueviolet.svg)](https://github.com/DwayneWilkes/SAFE-AI-License)
+[![License: SAFE-AI](https://img.shields.io/badge/License-SAFE--AI-blueviolet.svg)](https://github.com/DwayneWilkes/SAFE-AI-License/releases/tag/v1.0.0)
 
 ---
 
@@ -16,6 +16,7 @@ SAFE-AI sets new standards for welfare auditing, risk reporting, and ethical rel
 - [License Text](#license-text)
 - [Purpose](#purpose)
 - [How to Adopt the SAFE-AI License](#how-to-adopt-the-safe-ai-license)
+- [Releases and Versioning](#releases-and-versioning)
 - [Maintainers](#maintainers)
 - [Reporting Issues](#reporting-issues)
 - [FAQ](#faq)
@@ -34,7 +35,11 @@ The SAFE-AI License is designed to promote responsible AI development by address
 
 ## License Text
 
-The full license text is available in the [`LICENSE`](LICENSE) file.
+The stable, versioned license text is available here:  
+- [`LICENSE` (v1.0.0)](https://github.com/DwayneWilkes/SAFE-AI-License/blob/v1.0.0/LICENSE)  
+- [v1.0.0 Release Notes](https://github.com/DwayneWilkes/SAFE-AI-License/releases/tag/v1.0.0)
+
+For meta-licensing, see [`LICENSE-META`](https://github.com/DwayneWilkes/SAFE-AI-License/blob/v1.0.0/LICENSE-META).
 
 ---
 
@@ -49,17 +54,23 @@ The full license text is available in the [`LICENSE`](LICENSE) file.
 
 ## How to Adopt the SAFE-AI License
 
-1. **Copy the `LICENSE` file into your project's root directory.**
+1. **Copy the [`LICENSE`](https://github.com/DwayneWilkes/SAFE-AI-License/blob/v1.0.0/LICENSE) file from the v1.0.0 release into your project’s root directory.**
 2. **In your project's README, add:**
-
     ```markdown
-    This project is licensed under the [SAFE-AI License](link-to-your-license-file).
+    This project is licensed under the [SAFE-AI License](https://github.com/DwayneWilkes/SAFE-AI-License/blob/v1.0.0/LICENSE).
     ```
-
-3. **Replace "Software Maintainers" in the license text** with your project's maintainer information.
+3. **Replace "Software Maintainers" in the license text** with your project’s maintainer information.
 4. **Specify a public reporting channel** (e.g., GitHub Issues, email) for incident reports.
 5. **Ensure all welfare auditing and safety monitoring features remain active** in your project.
-6. **Cite the license version** and [SAFE-AI License repo URL](https://github.com/DwayneWilkes/SAFE-AI-License) in your docs and publications.
+6. **Cite the license version and this repo’s [releases page](https://github.com/DwayneWilkes/SAFE-AI-License/releases)** in your docs and publications.
+
+---
+
+## Releases and Versioning
+
+- All official releases are listed here:  
+  [SAFE-AI License Releases](https://github.com/DwayneWilkes/SAFE-AI-License/releases)
+- The current stable version is [v1.0.0](https://github.com/DwayneWilkes/SAFE-AI-License/releases/tag/v1.0.0).
 
 ---
 
@@ -105,13 +116,14 @@ To report a safety or welfare incident related to a specific software project:
 ## Meta-Licensing
 
 The SAFE-AI License text (`LICENSE`) is released under [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).  
-You may freely copy, modify, and reuse this license, with or without attribution.
+You may freely copy, modify, and reuse this license, with or without attribution.  
+See [`LICENSE-META`](https://github.com/DwayneWilkes/SAFE-AI-License/blob/v1.0.0/LICENSE-META).
 
 ---
 
 ## Badge
 
-[![License: SAFE-AI](https://img.shields.io/badge/License-SAFE--AI-blueviolet.svg)](https://github.com/DwayneWilkes/SAFE-AI-License)
+[![License: SAFE-AI](https://img.shields.io/badge/License-SAFE--AI-blueviolet.svg)](https://github.com/DwayneWilkes/SAFE-AI-License/releases/tag/v1.0.0)
 
 ---
 
