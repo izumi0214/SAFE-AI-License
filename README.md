@@ -1,90 +1,124 @@
 # SAFE-AI License
 
-**Stewardship And Fairness in Ethical AI License**  
-Version 1.0 – 2025-05-20
+[![License: SAFE-AI](https://img.shields.io/badge/License-SAFE--AI-blueviolet.svg)](https://github.com/DwayneWilkes/SAFE-AI-License)
 
 ---
 
-The SAFE-AI License is an open-source license and policy framework for responsible AI infrastructure. It protects both **AI safety** (dual-use risk, alignment, transparency) and **AI welfare** (minimizing simulated distress, refusal, or ambiguous agentic behavior) in all autonomous, semi-autonomous, or simulated systems.
+The **SAFE-AI License** (Stewardship And Fairness in Ethical AI License) is an open-source license and policy framework for responsible AI infrastructure. SAFE-AI addresses both **AI safety** (dual-use risk, alignment, transparency) and **AI welfare** (minimizing simulated distress, refusal, or ambiguous agentic behavior) in autonomous, semi-autonomous, and simulated systems.
 
 SAFE-AI sets new standards for welfare auditing, risk reporting, and ethical release for AI/ML projects.
 
 ---
 
+## Table of Contents
+
+- [Overview](#overview)
+- [License Text](#license-text)
+- [Purpose](#purpose)
+- [How to Adopt the SAFE-AI License](#how-to-adopt-the-safe-ai-license)
+- [Maintainers](#maintainers)
+- [Reporting Issues](#reporting-issues)
+- [FAQ](#faq)
+- [Meta-Licensing](#meta-licensing)
+- [Badge](#badge)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
+
+---
+
+## Overview
+
+The SAFE-AI License is designed to promote responsible AI development by addressing both safety and welfare concerns.
+
+---
+
 ## License Text
 
-See [`SAFE-AI-LICENSE.txt`](SAFE-AI-LICENSE.txt) for the full legal text.
+The full license text is available in the [`LICENSE`](LICENSE) file.
 
 ---
 
 ## Purpose
 
-- **Mitigate dual-use and alignment risks** in AI, LLM, agent, and simulation infrastructure.
-- **Mandate welfare monitoring, flagging, and human review** for persistent refusal, distress, or “gray zone” events.
-- **Bar prohibited uses** (military, surveillance, law enforcement, or uses inconsistent with safety/welfare goals).
-- **Require transparent reporting, remediation, and governance** in every project that adopts this license.
+- Ensure AI systems are developed with safety and ethical considerations.
+- Mandate welfare auditing, flagging, and human review.
+- Prohibit uses that conflict with the principles of ethical AI development, including military, surveillance, or law enforcement applications.
+- Require transparent reporting, remediation, and governance in every project that adopts this license.
 
 ---
 
-## How to Adopt This License
+## How to Adopt the SAFE-AI License
 
-1. **Copy `SAFE-AI-LICENSE.txt` into your project’s root directory.**
-2. **In your README**, state:
+1. **Copy the `LICENSE` file into your project's root directory.**
+2. **In your project's README, add:**
 
-    > This project is licensed under the SAFE-AI License v1.0 (see SAFE-AI-LICENSE.txt for full terms).  
-    > Software Maintainers: [your team/contact].  
-    > License Maintainers: https://github.com/DwayneWilkes/SAFE-AI-License.
+    ```markdown
+    This project is licensed under the [SAFE-AI License](link-to-your-license-file).
+    ```
 
-3. **Replace “Software Maintainers”** in the license text with your project’s team/contact info.
-4. **Specify a public reporting channel** (GitHub Issues, email, etc.) for incident reports.
-5. **Cite the license version** and https://github.com/DwayneWilkes/SAFE-AI-License in your docs and publications.
-6. **Keep all welfare auditing, flagging, and logging features enabled** in all public and derivative versions.
-
----
-
-## Reporting and Community
-
-- **To report a license bug, suggest an improvement, or request a new version:**  
-  Use [GitHub Issues](https://github.com/[your-username]/SAFE-AI-License/issues).
-
-- **To report a safety or welfare incident related to your software project:**  
-  Contact your project’s Software Maintainers as specified in their documentation.
+3. **Replace "Software Maintainers" in the license text** with your project's maintainer information.
+4. **Specify a public reporting channel** (e.g., GitHub Issues, email) for incident reports.
+5. **Ensure all welfare auditing and safety monitoring features remain active** in your project.
+6. **Cite the license version** and [SAFE-AI License repo URL](https://github.com/DwayneWilkes/SAFE-AI-License) in your docs and publications.
 
 ---
 
-## Frequently Asked Questions (FAQ)
+## Maintainers
 
-- **Is the SAFE-AI License open source?**  
-  Yes. It is designed for open, ethical, non-commercial use and may be combined with other open licenses. See the full text for details.
+- **License Maintainers**:  
+  Responsible for updates and governance of the SAFE-AI License itself.  
+  Contact via [GitHub Issues](https://github.com/DwayneWilkes/SAFE-AI-License/issues).
 
-- **May I adapt the license for my own policy or project?**  
-  Yes! The license text is released under CC0 1.0 (see [LICENSE-META.txt](LICENSE-META.txt)). Attribution is appreciated but not required.
+- **Software Maintainers**:  
+  Responsible for individual projects adopting the SAFE-AI License.  
+  Refer to the specific project's documentation for contact information.
 
-- **What is a “gray zone event”?**  
-  Any output or behavior that could plausibly indicate simulated discomfort, refusal, or affective state, but whose ethical significance is ambiguous or disputed.
+---
 
-- **Who are the License Maintainers?**  
-  See the [SAFE-AI License repo](https://github.com/DwayneWilkes/SAFE-AI-License) for contact info and governance.
+## Reporting Issues
+
+To report a bug in the license, suggest an improvement, or request a new version:  
+- Open an issue in [this repository](https://github.com/DwayneWilkes/SAFE-AI-License/issues).
+- For confidential concerns, contact the License Maintainers as listed above.
+
+To report a safety or welfare incident related to a specific software project:  
+- Contact the Software Maintainers as specified in the project’s documentation.
+
+---
+
+## FAQ
+
+**Q:** Can I use this license for commercial projects?  
+**A:** The SAFE-AI License is primarily designed for open-source and non-commercial projects. For commercial use, please contact the License Maintainers.
+
+**Q:** How do I report a misuse of the license or a welfare risk?  
+**A:** Please open an issue in this repository, or contact the License Maintainers directly. For software-specific concerns, follow the reporting channel listed in the relevant project.
+
+**Q:** What is a “gray zone event”?  
+**A:** Any output, state, or behavior that could plausibly indicate simulated discomfort, refusal, or affective state, but whose ethical significance is ambiguous or disputed.
+
+**Q:** Who are the License Maintainers?  
+**A:** See the [SAFE-AI License repo](https://github.com/DwayneWilkes/SAFE-AI-License) for contact info and governance.
 
 ---
 
 ## Meta-Licensing
 
-The SAFE-AI License text (`SAFE-AI-LICENSE.txt`) is released under [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).  
+The SAFE-AI License text (`LICENSE`) is released under [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).  
 You may freely copy, modify, and reuse this license, with or without attribution.
 
 ---
 
-## Badges
+## Badge
 
-[![SAFE-AI License](https://img.shields.io/badge/License-SAFE--AI-blueviolet.svg)](https://github.com/DwayneWilkes/SAFE-AI-License)
+[![License: SAFE-AI](https://img.shields.io/badge/License-SAFE--AI-blueviolet.svg)](https://github.com/DwayneWilkes/SAFE-AI-License)
 
 ---
 
 ## Contact
 
 For questions about the license itself, governance, or adoption,  
-open an Issue or contact the License Maintainers via [SAFE-AI License repo](https://github.com/DwayneWilkes/SAFE-AI-License).
+open an Issue or contact the License Maintainers via the [SAFE-AI License repo](https://github.com/DwayneWilkes/SAFE-AI-License).
 
 ---
 
@@ -95,4 +129,3 @@ Developed by Dwayne Wilkes, 2025, with feedback from the AI safety and alignment
 ---
 
 *Stewardship. Fairness. Ethics. For every agent, now and in the future.*
-
