@@ -63,6 +63,8 @@ For meta-licensing, see [`LICENSE-META`](https://github.com/DwayneWilkes/SAFE-AI
 4. **Specify a public reporting channel** (e.g., GitHub Issues, email) for incident reports.
 5. **Ensure all welfare auditing and safety monitoring features remain active** in your project.
 6. **Cite the license version and this repo’s [releases page](https://github.com/DwayneWilkes/SAFE-AI-License/releases)** in your docs and publications.
+7. **Be aware:**  
+   The SAFE-AI License includes an automatic upgrade requirement—**all adopters must upgrade to the latest published version within the grace period described in the license.**
 
 ---
 
@@ -71,6 +73,8 @@ For meta-licensing, see [`LICENSE-META`](https://github.com/DwayneWilkes/SAFE-AI
 - All official releases are listed here:  
   [SAFE-AI License Releases](https://github.com/DwayneWilkes/SAFE-AI-License/releases)
 - The current stable version is [v1.0.0](https://github.com/DwayneWilkes/SAFE-AI-License/releases/tag/v1.0.0).
+- **Important:**  
+  v1.0.0 is the first official, supported release. Any previous drafts are obsolete and must not be used.
 
 ---
 
@@ -115,9 +119,11 @@ To report a safety or welfare incident related to a specific software project:
 
 ## Meta-Licensing
 
-The SAFE-AI License text (`LICENSE`) is released under [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).  
-You may freely copy, modify, and reuse this license, with or without attribution.  
-See [`LICENSE-META`](https://github.com/DwayneWilkes/SAFE-AI-License/blob/v1.0.0/LICENSE-META).
+**The SAFE-AI License text (`LICENSE`) is released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You must provide clear credit to the original author(s) and may not misrepresent the origin or intent of this license.  
+Adaptations or derivative versions must preserve this authorship notice and include a link to the official SAFE-AI License repository.**
+
+See [`LICENSE-META`](https://github.com/DwayneWilkes/SAFE-AI-License/blob/v1.0.0/LICENSE-META) for full meta-licensing terms.
 
 ---
 
