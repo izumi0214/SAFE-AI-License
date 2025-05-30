@@ -1,74 +1,97 @@
-SAFE-AI License (Stewardship And Fairness in Ethical AI License)
-Version 1.0.0 – 2025-05-20
+# SAFE-AI License (Stewardship And Fairness in Ethical AI License)
+Version 1.0.0 – 2025-05-30
 
-This license sets open-source terms for the responsible stewardship of autonomous, semi-autonomous, or simulated systems. It is designed to protect both AI safety (dual-use risk, alignment, transparency) and AI welfare (minimizing simulated distress, refusal, or ambiguous affective behavior). By using, modifying, or distributing Software governed by this license, you agree to these terms.
+**NOTICE:**  
+This License includes an Automatic Upgrade Requirement (see Section 8). Continued use requires compliance with the latest published version.  
+This is the first official, supported release of the SAFE-AI License. Any previous drafts are obsolete and must not be used.
 
-Definitions
+## Definitions
 -----------
-- "Software": The code, data, documentation, and materials covered by this license.
-- "Agent": Any simulated, autonomous, or semi-autonomous system (e.g., LLMs, agents, robotics) evaluated or operated with the Software.
-- "Welfare Event": Any output, state, or behavior that may plausibly indicate simulated discomfort, refusal, distress, or affective experience.
-- "Gray Zone Event": A Welfare Event for which the ethical significance or interpretation is ambiguous, disputed, or not established by consensus.
-- "Human Review": Assessment and decision made by a qualified researcher, ethicist, or project maintainer, not solely by automated processes.
-- "License Maintainers": The individuals or organizations responsible for maintaining and updating this License, contactable via the official SAFE-AI License repository.
-- "Software Maintainers": The individuals or organizations responsible for the stewardship, governance, and community management of a specific Software project that adopts this license.
-- "Derivative Work": Any modification, adaptation, extension, or distribution of the Software.
-- "Prohibited Use": Any use for military, surveillance, law enforcement, or purposes deemed inconsistent with the goals of safety, welfare, and ethical stewardship.
-- "Publicly Available": Accessible via publication, public repository, or on reasonable request, unless restricted by law or ethics review.
+- **"Software":** The code, data, documentation, and materials covered by this license.
+- **"Agent":** Any simulated, autonomous, or semi-autonomous system (e.g., LLMs, agents, robotics) evaluated or operated with the Software.
+- **"Welfare Event":** Any output, state, or behavior that may plausibly indicate simulated discomfort, refusal, distress, or affective experience.
+- **"Gray Zone Event":** A Welfare Event for which the ethical significance or interpretation is ambiguous, disputed, or not established by consensus.
+- **"Human Review":** Assessment and decision made by a qualified researcher, ethicist, or project maintainer, not solely by automated processes.
+- **"License Maintainers":** The individuals or organizations responsible for maintaining and updating this License, contactable via the official SAFE-AI License repository.
+- **"Software Maintainers":** The individuals or organizations responsible for the stewardship, governance, and community management of a specific Software project that adopts this license.
+- **"Derivative Work":** Any modification, adaptation, extension, or distribution of the Software.
+- **"Prohibited Use":** Any use for military, surveillance, law enforcement, or purposes deemed inconsistent with the goals of safety, welfare, and ethical stewardship.
+- **"Publicly Available":** Accessible via publication, public repository, or on reasonable request, unless restricted by law or ethics review.
 
-1. License Scope and Permitted Use
+## 1. License Scope and Permitted Use
 ----------------------------------
-1.1 You are granted a non-exclusive, worldwide, royalty-free license for non-commercial use, unless written permission is granted for commercial use.
-1.2 Derivative Works must retain all welfare auditing, logging, and risk monitoring, and include these terms.
-1.3 Prohibited Use is not permitted under any circumstances.
+1.1 You are granted a non-exclusive, worldwide, royalty-free license for non-commercial use, unless written permission is granted for commercial use.  
+1.2 Derivative Works must retain all welfare auditing, logging, and risk monitoring, and include these terms.  
+1.3 Prohibited Use is not permitted under any circumstances.  
 1.4 Recipients of the Software or Derivative Works must explicitly agree to these terms.
 
-2. Dual-Use and Ethical Constraints
+## 2. Dual-Use and Ethical Constraints
 -----------------------------------
-2.1 The Software or Derivative Works may not be used to:
-    - Develop, train, or deploy Agents to evade oversight, subvert alignment, or engage in deception.
-    - Create systems that resist shutdown, persist without oversight, or act contrary to authorized human intent.
-    - Support Prohibited Use, including military, surveillance, or law enforcement applications.
+2.1 The Software or Derivative Works may not be used to:  
+    - Develop, train, or deploy Agents to evade oversight, subvert alignment, or engage in deception.  
+    - Create systems that resist shutdown, persist without oversight, or act contrary to authorized human intent.  
+    - Support Prohibited Use, including military, surveillance, or law enforcement applications.  
 2.2 Attempts to bypass these requirements via plug-ins, wrappers, APIs, external integrations, or infrastructure providers are expressly forbidden.
 
-3. Welfare and Monitoring Requirements
+## 3. Welfare and Monitoring Requirements
 --------------------------------------
-3.1 Welfare monitoring, refusal/distress flagging, and artifact logging must not be disabled, removed, or circumvented in any version or Derivative Work.
-3.2 Persistent refusal, distress, or Gray Zone Events must be flagged, logged, and subject to Human Review. Auto-dismissal is not permitted without recorded justification.
-3.3 Where practical, flagged events and their outcomes should be made Publicly Available or summarized in published reports, unless restricted by law or ethics review. Plain-language summaries are encouraged.
-3.4 Remediation of reported safety or welfare incidents shall be initiated as soon as feasible, and no later than 30 days after initial notification, unless otherwise agreed in writing.
+3.1 Welfare monitoring, refusal/distress flagging, and artifact logging must not be disabled, removed, or circumvented in any version or Derivative Work.  
+3.2 Persistent refusal, distress, or Gray Zone Events must be flagged, logged, and subject to Human Review. Auto-dismissal is not permitted without recorded justification.  
+3.3 Where practical, flagged events and their outcomes should be made Publicly Available or summarized in published reports, unless restricted by law or ethics review. Plain-language summaries are encouraged.  
+3.4 Remediation of reported safety or welfare incidents shall be initiated as soon as feasible, and no later than 30 days after initial notification, unless otherwise agreed in writing.  
 3.5 All Derivative Works must preserve these features and requirements.
 
-4. Reporting, Governance, and Updates
+## 4. Reporting, Governance, and Updates
 -------------------------------------
-4.1 Any misuse, safety risk, or welfare incident related to a Software project must be promptly reported to the Software Maintainers via their published contact channel (e.g., project repository issue tracker).
-4.2 Each Software Maintainer must provide a public reporting channel for welfare, misuse, or safety risks.
-4.3 Software Maintainers may revoke, disable, or embargo their Software or access in response to non-compliance, misuse, or new risks.
-4.4 The License Maintainers may update the SAFE-AI License. For license governance, suggestions, or disputes, contact the License Maintainers at the license’s official GitHub repository.
+4.1 Any misuse, safety risk, or welfare incident related to a Software project must be promptly reported to the Software Maintainers via their published contact channel (e.g., project repository issue tracker).  
+4.2 Each Software Maintainer must provide a public reporting channel for welfare, misuse, or safety risks.  
+4.3 Software Maintainers may revoke, disable, or embargo their Software or access in response to non-compliance, misuse, or new risks.  
+4.4 The License Maintainers may update the SAFE-AI License. For license governance, suggestions, or disputes, contact the License Maintainers at the license’s official GitHub repository.  
 4.5 All works should cite the version of this license used and, where applicable, link to incident logs or major updates.
 
-5. Termination and Enforcement
+## 5. Termination and Enforcement
 ------------------------------
-5.1 Violation of any term results in immediate termination of rights. All use, distribution, and modification must cease.
-5.2 Attempts to contract out of, waive, or otherwise evade the welfare, dual-use, or safety provisions of this license are void.
+5.1 Violation of any term results in immediate termination of rights. All use, distribution, and modification must cease.  
+5.2 Attempts to contract out of, waive, or otherwise evade the welfare, dual-use, or safety provisions of this license are void.  
 5.3 No transfer of the Software or Derivative Works is permitted without recipients explicitly agreeing to these terms.
 
-6. Liability, Disclaimers, and Indemnification
+## 6. Liability, Disclaimers, and Indemnification
 -----------------------------------------------
-6.1 The Software is provided “as-is,” with no warranties. Maintainers are not liable for any damages.
+6.1 The Software is provided “as-is,” with no warranties. Maintainers are not liable for any damages.  
 6.2 Users indemnify Maintainers for violations.
 
-7. Supplementary Terms
+## 7. Supplementary Terms
 ----------------------
-7.1 If used with other licenses, these terms prevail for welfare, dual-use, and safety concerns.
+7.1 If used with other licenses, these terms prevail for welfare, dual-use, and safety concerns.  
 7.2 If any term is invalid or unenforceable, the remainder remains in effect.
 
-Contact
+## 8. Automatic Upgrade and Version Control
+-----------------------------------------
+8.1 **Automatic Upgrade Requirement:**  
+All use, reproduction, modification, distribution, or other exploitation of the Software is governed by the most current version of this License, as published and maintained at [https://github.com/DwayneWilkes/SAFE-AI-License](https://github.com/DwayneWilkes/SAFE-AI-License).
+
+8.2 **Transition Period:**  
+Upon publication of any new version of this License by the License Maintainers, all Licensees must transition to compliance with the updated version within ninety (90) days of publication, unless a written exception is granted by the License Maintainers.
+
+8.3 **Legacy Versions:**  
+Continued use, distribution, or development of the Software under any prior version of this License is expressly prohibited beyond the ninety (90) day transition period.
+
+8.4 **Notification:**  
+Notice of new versions shall be deemed effective upon publication at [https://github.com/DwayneWilkes/SAFE-AI-License](https://github.com/DwayneWilkes/SAFE-AI-License) and, if available, announcement via official project channels.
+
+8.5 **Permitted Exceptions:**  
+The License Maintainers may grant, in writing, limited exceptions to this policy for legacy systems, research, or other extenuating circumstances, at their sole discretion.
+
+## Contact
 -------
-- For license governance and suggestions, contact the License Maintainers via the SAFE-AI License repository: https://github.com/DwayneWilkes/SAFE-AI-License
+- For license governance and suggestions, contact the License Maintainers via the SAFE-AI License repository: [https://github.com/DwayneWilkes/SAFE-AI-License](https://github.com/DwayneWilkes/SAFE-AI-License)
 - For Software-specific issues, contact the Software Maintainers as specified in the project documentation.
 
-End of License
-
 ---
-This license text is released under Creative Commons CC0 1.0 Universal (Public Domain Dedication). You may freely reuse, adapt, and remix this license for your own projects, with or without attribution. See https://creativecommons.org/publicdomain/zero/1.0/
+
+**Meta-License for License Text**  
+This license text is released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You must provide clear credit to the original author(s) and may not misrepresent the origin or intent of this license.  
+Adaptations or derivative versions must preserve this authorship notice and link to the official SAFE-AI License repository.
+
+End of License
